@@ -5,5 +5,5 @@ A tiny experiment showing the difference (speed-up) of cupy over numpy.
 
 
 
-![Cupy](img/cupy_sc.png){:height="700px" width="700px"} ![Numpy](img/numpy_Sc.png)
+![Cupy](img/cupy_sc.png){:height="300px" width="300px"} ![Numpy](img/numpy_Sc.png){:height="300px" width="300px"}
 
